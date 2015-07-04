@@ -1,11 +1,11 @@
-print_omurice.rb
+print_recipes.rb
 ・説明
-レシピデータのファイルからオムライスのレシピを読み込んで表示するプログラム
+レシピデータのファイルから複数のレシピを読み込んで表示するプログラム
 
 ・実行方法
 シェルで以下のコマンドを実行する。
-ruby print_omurice.rb
+ruby print_recipes.rb
 
 ・レシピファイル
-ファイル名　：recipt.txt
+ファイル名　：recipts.txt
 フォーマット：プレーンテキスト
